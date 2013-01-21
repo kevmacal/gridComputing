@@ -1,0 +1,25 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Computaci\'on Distribuida}{3}
+\contentsline {subsection}{\numberline {1.1}Objetivos de la investigaci\'on}{4}
+\contentsline {section}{\numberline {2}Conceptos B\'asicos de Grid Computing}{5}
+\contentsline {subsection}{\numberline {2.1}Definici\'on}{5}
+\contentsline {subsection}{\numberline {2.2}Middleware}{5}
+\contentsline {subsection}{\numberline {2.3}Organizaci\'on Virtual OV (VO por sus siglas en ingl\'es)}{6}
+\contentsline {subsection}{\numberline {2.4}Actualidad}{6}
+\contentsline {subsection}{\numberline {2.5}Ventajas y Desventajas}{7}
+\contentsline {subsubsection}{\numberline {2.5.1}Ventajas}{7}
+\contentsline {subsubsection}{\numberline {2.5.2}Desventajas}{8}
+\contentsline {subsection}{\numberline {2.6}Funcionamiento}{9}
+\contentsline {section}{\numberline {3}Aplicaciones}{10}
+\contentsline {subsection}{\numberline {3.1}La Supercomputaci\'on}{10}
+\contentsline {subsection}{\numberline {3.2}Sistemas Distribuidos en Tiempo Real}{10}
+\contentsline {subsection}{\numberline {3.3}Servicios Puntuales}{10}
+\contentsline {subsection}{\numberline {3.4}Proceso Intensivo de datos}{10}
+\contentsline {subsection}{\numberline {3.5}Entornos Virtuales de colaboraci\'on}{10}
+\contentsline {section}{\numberline {4}Diferencia entre otros sistemas de computacion distribuida}{12}
+\contentsline {subsection}{\numberline {4.1}Cloud Computing}{12}
+\contentsline {subsubsection}{\numberline {4.1.1}Definici\'on de Cloud Computing}{12}
+\contentsline {subsubsection}{\numberline {4.1.2}La Diferencia}{12}
+\contentsline {subsection}{\numberline {4.2}Peer-to-Peer (P2P)}{14}
+\contentsline {subsubsection}{\numberline {4.2.1}Definici\'on de Peer-to-Peer}{14}
+\contentsline {subsubsection}{\numberline {4.2.2}La Diferencia}{14}
